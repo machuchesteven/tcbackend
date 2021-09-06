@@ -1,0 +1,13 @@
+# media files and static files
+/media
+/static
+/service image
+
+
+# Migrations and Other Cache files
+/Backend/migrations
+/Backend/__pycache__
+/TcraftBackend/__pycache__
+
+# static development database
+/db.sqlite3
